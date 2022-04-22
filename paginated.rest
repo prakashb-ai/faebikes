@@ -1,0 +1,1 @@
+GET http://localhost:8080/details?page%3D1=limit=2
